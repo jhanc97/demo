@@ -1,0 +1,1065 @@
+// 20210103220558
+// http://142.93.112.82/api/movies
+
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 2173,
+      "tmdb_id": 12445,
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "overview": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+      "poster_path": "https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+      "preview_path": "https://www.youtube.com/embed/5NYt1qirBWg",
+      "vote_average": 8.1,
+      "vote_count": 14958,
+      "popularity": 149.26,
+      "views": 2,
+      "status": 1,
+      "release_date": "2011-07-07",
+      "created_at": "2021-01-04 02:46:31",
+      "updated_at": "2021-01-04 02:56:19",
+      "hd": 0,
+      "genreslist": [
+        "Fantasía",
+        "Aventura"
+      ],
+      "videos": [
+        {
+          "id": 6297,
+          "movie_id": 2173,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-p7m7pprmmhsf.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:46:31",
+          "updated_at": "2021-01-04 02:46:31"
+        },
+        {
+          "id": 6298,
+          "movie_id": 2173,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-20kmvr3iv7wq.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:46:31",
+          "updated_at": "2021-01-04 02:46:31"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5551,
+          "movie_id": 2173,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:46:31",
+          "updated_at": "2021-01-04 02:46:31",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5552,
+          "movie_id": 2173,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:46:31",
+          "updated_at": "2021-01-04 02:46:31",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2172,
+      "tmdb_id": 12444,
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+      "preview_path": "https://www.youtube.com/embed/f3O0odK1VIQ",
+      "vote_average": 7.8,
+      "vote_count": 13917,
+      "popularity": 118.87,
+      "views": 4,
+      "status": 1,
+      "release_date": "2010-10-17",
+      "created_at": "2021-01-04 02:44:52",
+      "updated_at": "2021-01-04 03:00:40",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "videos": [
+        {
+          "id": 6295,
+          "movie_id": 2172,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-c3wjh4hw95w2.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:44:52",
+          "updated_at": "2021-01-04 02:44:52"
+        },
+        {
+          "id": 6296,
+          "movie_id": 2172,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-fowzfcdqhqvw.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:44:52",
+          "updated_at": "2021-01-04 02:44:52"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5549,
+          "movie_id": 2172,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:44:52",
+          "updated_at": "2021-01-04 02:44:52",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5550,
+          "movie_id": 2172,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:44:52",
+          "updated_at": "2021-01-04 02:44:52",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2171,
+      "tmdb_id": 767,
+      "title": "Harry Potter y el misterio del príncipe",
+      "overview": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/kT8bDEAgEYBKhRJtqM97qTw6uRW.jpg",
+      "preview_path": "https://www.youtube.com/embed/NaM7nKvX4Es",
+      "vote_average": 7.7,
+      "vote_count": 13902,
+      "popularity": 140.39,
+      "views": 3,
+      "status": 1,
+      "release_date": "2009-07-07",
+      "created_at": "2021-01-04 02:43:01",
+      "updated_at": "2021-01-04 02:58:43",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "videos": [
+        {
+          "id": 6293,
+          "movie_id": 2171,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-ajw8srssx4ne.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:43:01",
+          "updated_at": "2021-01-04 02:43:01"
+        },
+        {
+          "id": 6294,
+          "movie_id": 2171,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-akru3liip057.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:43:01",
+          "updated_at": "2021-01-04 02:43:01"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5547,
+          "movie_id": 2171,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:43:01",
+          "updated_at": "2021-01-04 02:43:01",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5548,
+          "movie_id": 2171,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:43:01",
+          "updated_at": "2021-01-04 02:43:01",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2170,
+      "tmdb_id": 675,
+      "title": "Harry Potter y la Orden del Fénix",
+      "overview": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+      "preview_path": "https://www.youtube.com/embed/wmef9GgR3T4",
+      "vote_average": 7.7,
+      "vote_count": 14121,
+      "popularity": 128.55,
+      "views": 1,
+      "status": 1,
+      "release_date": "2007-06-28",
+      "created_at": "2021-01-04 02:41:15",
+      "updated_at": "2021-01-04 02:49:58",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía",
+        "Misterio"
+      ],
+      "videos": [
+        {
+          "id": 6291,
+          "movie_id": 2170,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-dg2y7zetgcb3.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:41:15",
+          "updated_at": "2021-01-04 02:41:15"
+        },
+        {
+          "id": 6292,
+          "movie_id": 2170,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-0dnu7d680xc1.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:41:15",
+          "updated_at": "2021-01-04 02:41:15"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5544,
+          "movie_id": 2170,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:41:15",
+          "updated_at": "2021-01-04 02:41:15",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5545,
+          "movie_id": 2170,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:41:15",
+          "updated_at": "2021-01-04 02:41:15",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5546,
+          "movie_id": 2170,
+          "genre_id": 9648,
+          "created_at": "2021-01-04 02:41:15",
+          "updated_at": "2021-01-04 02:41:15",
+          "name": "Misterio",
+          "genre": {
+            "id": 9648,
+            "name": "Misterio",
+            "created_at": "2019-12-26 01:06:05",
+            "updated_at": "2019-12-26 01:06:05"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2169,
+      "tmdb_id": 674,
+      "title": "Harry Potter y el cáliz de fuego",
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "poster_path": "https://image.tmdb.org/t/p/w500/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+      "preview_path": "https://www.youtube.com/embed/R2SnCLrc76I",
+      "vote_average": 7.8,
+      "vote_count": 14721,
+      "popularity": 171.43,
+      "views": 7,
+      "status": 1,
+      "release_date": "2005-11-16",
+      "created_at": "2021-01-04 02:39:53",
+      "updated_at": "2021-01-04 02:54:15",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía",
+        "Familia"
+      ],
+      "videos": [
+        {
+          "id": 6289,
+          "movie_id": 2169,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-th1k7f61gujo.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:39:53",
+          "updated_at": "2021-01-04 02:39:53"
+        },
+        {
+          "id": 6290,
+          "movie_id": 2169,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-6llj2bugp0ie.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:39:53",
+          "updated_at": "2021-01-04 02:39:53"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5541,
+          "movie_id": 2169,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:39:53",
+          "updated_at": "2021-01-04 02:39:53",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5542,
+          "movie_id": 2169,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:39:53",
+          "updated_at": "2021-01-04 02:39:53",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5543,
+          "movie_id": 2169,
+          "genre_id": 10751,
+          "created_at": "2021-01-04 02:39:53",
+          "updated_at": "2021-01-04 02:39:53",
+          "name": "Familia",
+          "genre": {
+            "id": 10751,
+            "name": "Familia",
+            "created_at": "2019-12-24 05:42:30",
+            "updated_at": "2019-12-24 05:42:30"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2168,
+      "tmdb_id": 672,
+      "title": "Harry Potter y la cámara secreta",
+      "overview": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/bvRnPaai6JL7XHF4K6414DdSHro.jpg",
+      "preview_path": "https://www.youtube.com/embed/C8CL5TbiFwY",
+      "vote_average": 7.7,
+      "vote_count": 15645,
+      "popularity": 177.21,
+      "views": 11,
+      "status": 1,
+      "release_date": "2002-11-13",
+      "created_at": "2021-01-04 02:37:58",
+      "updated_at": "2021-01-04 02:59:57",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "videos": [
+        {
+          "id": 6287,
+          "movie_id": 2168,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-yjh9irvs0k1q.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:37:58",
+          "updated_at": "2021-01-04 02:37:58"
+        },
+        {
+          "id": 6288,
+          "movie_id": 2168,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-nmlarjtuhfgz.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:37:58",
+          "updated_at": "2021-01-04 02:37:58"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5539,
+          "movie_id": 2168,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:37:58",
+          "updated_at": "2021-01-04 02:37:58",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5540,
+          "movie_id": 2168,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:37:58",
+          "updated_at": "2021-01-04 02:37:58",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2167,
+      "tmdb_id": 673,
+      "title": "Harry Potter y el prisionero de Azkaban",
+      "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+      "preview_path": "https://www.youtube.com/embed/Z1rhsNYESF0",
+      "vote_average": 8,
+      "vote_count": 15361,
+      "popularity": 150.18,
+      "views": 7,
+      "status": 1,
+      "release_date": "2004-05-31",
+      "created_at": "2021-01-04 02:36:38",
+      "updated_at": "2021-01-04 02:58:01",
+      "hd": 0,
+      "genreslist": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "videos": [
+        {
+          "id": 6285,
+          "movie_id": 2167,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-fdyphwb1vafb.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:36:38",
+          "updated_at": "2021-01-04 02:36:38"
+        },
+        {
+          "id": 6286,
+          "movie_id": 2167,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-g5a368sqwv1v.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-04 02:36:38",
+          "updated_at": "2021-01-04 02:36:38"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5537,
+          "movie_id": 2167,
+          "genre_id": 12,
+          "created_at": "2021-01-04 02:36:38",
+          "updated_at": "2021-01-04 02:36:38",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5538,
+          "movie_id": 2167,
+          "genre_id": 14,
+          "created_at": "2021-01-04 02:36:38",
+          "updated_at": "2021-01-04 02:36:38",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2166,
+      "tmdb_id": 643882,
+      "title": "Intercambio de Princesas 2",
+      "overview": "Se acerca la coronación de Margaret, pero su relación con Kevin está pasando por una mala racha. Ahora le toca a Stacy ayudarla antes de que otra doble lo fastidie todo.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/Agyy27dYOEO0dmqnW1wKnaKVw2q.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/zCHe8ckyufHVUZaoHu2DiF8evET.jpg",
+      "preview_path": "https://www.youtube.com/embed/0d4F8ycO9WE",
+      "vote_average": 7.1,
+      "vote_count": 476,
+      "popularity": 113.32,
+      "views": 1023,
+      "status": 1,
+      "release_date": "2020-11-19",
+      "created_at": "2021-01-02 22:11:59",
+      "updated_at": "2021-01-04 03:00:30",
+      "hd": 0,
+      "genreslist": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Familia"
+      ],
+      "videos": [
+        {
+          "id": 6281,
+          "movie_id": 2166,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-xjegck55nehx.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59"
+        },
+        {
+          "id": 6282,
+          "movie_id": 2166,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-ttga130i96pd.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5533,
+          "movie_id": 2166,
+          "genre_id": 35,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59",
+          "name": "Comedia",
+          "genre": {
+            "id": 35,
+            "name": "Comedia",
+            "created_at": "2019-12-24 05:43:28",
+            "updated_at": "2019-12-24 05:43:28"
+          }
+        },
+        {
+          "id": 5534,
+          "movie_id": 2166,
+          "genre_id": 18,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59",
+          "name": "Drama",
+          "genre": {
+            "id": 18,
+            "name": "Drama",
+            "created_at": "2019-12-24 05:40:37",
+            "updated_at": "2019-12-24 05:40:37"
+          }
+        },
+        {
+          "id": 5535,
+          "movie_id": 2166,
+          "genre_id": 10749,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59",
+          "name": "Romance",
+          "genre": {
+            "id": 10749,
+            "name": "Romance",
+            "created_at": "2019-12-26 01:44:58",
+            "updated_at": "2019-12-26 01:44:58"
+          }
+        },
+        {
+          "id": 5536,
+          "movie_id": 2166,
+          "genre_id": 10751,
+          "created_at": "2021-01-02 22:11:59",
+          "updated_at": "2021-01-02 22:11:59",
+          "name": "Familia",
+          "genre": {
+            "id": 10751,
+            "name": "Familia",
+            "created_at": "2019-12-24 05:42:30",
+            "updated_at": "2019-12-24 05:42:30"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2165,
+      "tmdb_id": 732670,
+      "title": "LEGO Star Wars: Especial Felices Fiestas",
+      "overview": "Tras la derrota de la Primera Orden en 'Star Wars: El Ascenso de Skywalker', la galaxia se encuentra en un momento de paz y libertad, un instante de merecido descanso para nuestros héroes que, como bien narra el querido Maestro Yoda, se dispone a girar en torno a la celebración del Día de la Vida. Así, en esta fecha señalada dedicada a disfrutar de amigos y familia, Rey, Finn, Poe, Rose y compañía planean organizar una fiesta de la que formará parte la familia de Chewbacca y otros conocidos galácticos como Lando Calrissian o Maz Kanata.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/ApYuiyKtkyA1SMC6UgvKZczPwUj.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/1Lhc32P0a62BgMFgd20wXR1osR3.jpg",
+      "preview_path": "https://www.youtube.com/embed/-bZxO5Dn9x0",
+      "vote_average": 7.3,
+      "vote_count": 91,
+      "popularity": 143.8,
+      "views": 184,
+      "status": 1,
+      "release_date": "2020-11-17",
+      "created_at": "2021-01-02 22:10:35",
+      "updated_at": "2021-01-04 02:40:58",
+      "hd": 0,
+      "genreslist": [
+        "Animación",
+        "Aventura",
+        "Comedia",
+        "Familia",
+        "Ciencia ficción"
+      ],
+      "videos": [
+        {
+          "id": 6279,
+          "movie_id": 2165,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-jd5w24dl7z7n.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35"
+        },
+        {
+          "id": 6280,
+          "movie_id": 2165,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-vt58i2sokr0v.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5528,
+          "movie_id": 2165,
+          "genre_id": 16,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35",
+          "name": "Animación",
+          "genre": {
+            "id": 16,
+            "name": "Animación",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5529,
+          "movie_id": 2165,
+          "genre_id": 12,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35",
+          "name": "Aventura",
+          "genre": {
+            "id": 12,
+            "name": "Aventura",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5530,
+          "movie_id": 2165,
+          "genre_id": 35,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35",
+          "name": "Comedia",
+          "genre": {
+            "id": 35,
+            "name": "Comedia",
+            "created_at": "2019-12-24 05:43:28",
+            "updated_at": "2019-12-24 05:43:28"
+          }
+        },
+        {
+          "id": 5531,
+          "movie_id": 2165,
+          "genre_id": 10751,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35",
+          "name": "Familia",
+          "genre": {
+            "id": 10751,
+            "name": "Familia",
+            "created_at": "2019-12-24 05:42:30",
+            "updated_at": "2019-12-24 05:42:30"
+          }
+        },
+        {
+          "id": 5532,
+          "movie_id": 2165,
+          "genre_id": 878,
+          "created_at": "2021-01-02 22:10:35",
+          "updated_at": "2021-01-02 22:10:35",
+          "name": "Ciencia ficción",
+          "genre": {
+            "id": 878,
+            "name": "Ciencia ficción",
+            "created_at": "2019-12-24 05:38:39",
+            "updated_at": "2019-12-24 05:38:39"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2164,
+      "tmdb_id": 656561,
+      "title": "Navidad Xtraterrestre",
+      "overview": "Cuando unos extraterrestres intentan robar la gravedad de la Tierra, solamente el espíritu bondadoso de la Navidad y un pequeño alienígena podrán salvar el mundo.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/x2lPPe2aH76uyYVhkVCtzTMYawC.jpg",
+      "preview_path": "https://www.youtube.com/embed/RhZ9gueH2OE",
+      "vote_average": 6.9,
+      "vote_count": 75,
+      "popularity": 182.52,
+      "views": 289,
+      "status": 1,
+      "release_date": "2020-11-20",
+      "created_at": "2021-01-02 22:09:16",
+      "updated_at": "2021-01-04 02:58:18",
+      "hd": 0,
+      "genreslist": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "videos": [
+        {
+          "id": 6277,
+          "movie_id": 2164,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-1do3z7lrc8qy.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:09:16",
+          "updated_at": "2021-01-02 22:09:16"
+        },
+        {
+          "id": 6278,
+          "movie_id": 2164,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-qx5kbouta5h7.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:09:16",
+          "updated_at": "2021-01-02 22:09:16"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5525,
+          "movie_id": 2164,
+          "genre_id": 16,
+          "created_at": "2021-01-02 22:09:16",
+          "updated_at": "2021-01-02 22:09:16",
+          "name": "Animación",
+          "genre": {
+            "id": 16,
+            "name": "Animación",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5526,
+          "movie_id": 2164,
+          "genre_id": 10751,
+          "created_at": "2021-01-02 22:09:16",
+          "updated_at": "2021-01-02 22:09:16",
+          "name": "Familia",
+          "genre": {
+            "id": 10751,
+            "name": "Familia",
+            "created_at": "2019-12-24 05:42:30",
+            "updated_at": "2019-12-24 05:42:30"
+          }
+        },
+        {
+          "id": 5527,
+          "movie_id": 2164,
+          "genre_id": 14,
+          "created_at": "2021-01-02 22:09:16",
+          "updated_at": "2021-01-02 22:09:16",
+          "name": "Fantasía",
+          "genre": {
+            "id": 14,
+            "name": "Fantasía",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2163,
+      "tmdb_id": 768076,
+      "title": "Dragones: Equipo de Rescate Felices Fiestas en Huttsgalor",
+      "overview": null,
+      "poster_path": "https://image.tmdb.org/t/p/w500/3JZ3I9BDzVkDWRIGBl75MIig8Xg.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/iXqWc2SoIg3mRLIPCdKdhtFSLiU.jpg",
+      "preview_path": "https://www.youtube.com/embed/LF-C5js2iAQ",
+      "vote_average": 5.5,
+      "vote_count": 4,
+      "popularity": 169.85,
+      "views": 84,
+      "status": 1,
+      "release_date": "2020-11-24",
+      "created_at": "2021-01-02 22:07:34",
+      "updated_at": "2021-01-04 02:51:21",
+      "hd": 0,
+      "genreslist": [
+        "Animación",
+        "Familia"
+      ],
+      "videos": [
+        {
+          "id": 6275,
+          "movie_id": 2163,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-uhfi8zece61f.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:07:34",
+          "updated_at": "2021-01-02 22:07:34"
+        },
+        {
+          "id": 6276,
+          "movie_id": 2163,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-4annt6pahsdw.html",
+          "lang": "es",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:07:34",
+          "updated_at": "2021-01-02 22:07:34"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5523,
+          "movie_id": 2163,
+          "genre_id": 16,
+          "created_at": "2021-01-02 22:07:34",
+          "updated_at": "2021-01-02 22:07:34",
+          "name": "Animación",
+          "genre": {
+            "id": 16,
+            "name": "Animación",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5524,
+          "movie_id": 2163,
+          "genre_id": 10751,
+          "created_at": "2021-01-02 22:07:34",
+          "updated_at": "2021-01-02 22:07:34",
+          "name": "Familia",
+          "genre": {
+            "id": 10751,
+            "name": "Familia",
+            "created_at": "2019-12-24 05:42:30",
+            "updated_at": "2019-12-24 05:42:30"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2162,
+      "tmdb_id": 577922,
+      "title": "Tenet",
+      "overview": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
+      "poster_path": "https://image.tmdb.org/t/p/w500/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/w780/wzJRB4MKi3yK138bJyuL9nx47y6.jpg",
+      "preview_path": "https://www.youtube.com/embed/9UfIRXjoO3I",
+      "vote_average": 7.4,
+      "vote_count": 3516,
+      "popularity": 1424.41,
+      "views": 1133,
+      "status": 1,
+      "release_date": "2020-08-22",
+      "created_at": "2021-01-02 22:04:54",
+      "updated_at": "2021-01-04 02:57:23",
+      "hd": 0,
+      "genreslist": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "videos": [
+        {
+          "id": 6273,
+          "movie_id": 2162,
+          "server": "Subtitulado 1",
+          "link": "https://uqload.com/embed-udrz163l065p.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:04:54",
+          "updated_at": "2021-01-02 22:04:54"
+        },
+        {
+          "id": 6274,
+          "movie_id": 2162,
+          "server": "Español 1",
+          "link": "https://uqload.com/embed-s1wa8b5p88mk.html",
+          "lang": "en",
+          "hd": 0,
+          "status": 1,
+          "created_at": "2021-01-02 22:04:54",
+          "updated_at": "2021-01-02 22:04:54"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5520,
+          "movie_id": 2162,
+          "genre_id": 28,
+          "created_at": "2021-01-02 22:04:54",
+          "updated_at": "2021-01-02 22:04:54",
+          "name": "Acción",
+          "genre": {
+            "id": 28,
+            "name": "Acción",
+            "created_at": "2019-12-24 05:33:58",
+            "updated_at": "2019-12-24 05:33:58"
+          }
+        },
+        {
+          "id": 5521,
+          "movie_id": 2162,
+          "genre_id": 53,
+          "created_at": "2021-01-02 22:04:54",
+          "updated_at": "2021-01-02 22:04:54",
+          "name": "Suspense",
+          "genre": {
+            "id": 53,
+            "name": "Suspense",
+            "created_at": "2019-12-24 05:40:37",
+            "updated_at": "2019-12-24 05:40:37"
+          }
+        },
+        {
+          "id": 5522,
+          "movie_id": 2162,
+          "genre_id": 878,
+          "created_at": "2021-01-02 22:04:54",
+          "updated_at": "2021-01-02 22:04:54",
+          "name": "Ciencia ficción",
+          "genre": {
+            "id": 878,
+            "name": "Ciencia ficción",
+            "created_at": "2019-12-24 05:38:39",
+            "updated_at": "2019-12-24 05:38:39"
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "http://142.93.112.82/api/movies?page=1",
+  "from": 1,
+  "last_page": 181,
+  "last_page_url": "http://142.93.112.82/api/movies?page=181",
+  "next_page_url": "http://142.93.112.82/api/movies?page=2",
+  "path": "http://142.93.112.82/api/movies",
+  "per_page": 12,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 2166
+}
