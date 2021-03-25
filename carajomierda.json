@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2,
+    "trailer": "https://www.youtube.com/watch?v=",
+    "title": "Los peligros de Penélope Glamour",
+    "sinopsis": "putamadre contarmemrwe",
+    "imagen": "https://www.themoviedb.org/t/p/original/xsKvqS8JuYcpIinCBmThLRNnF4k.jpg",
+    "imagenPortada": "https://www.themoviedb.org/t/p/original/zRZohPYDsD8kCjEemeMOvmDveCD.jpg",
+    "duracion": "21min",
+    "categoria": "series",
+    "urlLatino": "https://raw.githubusercontent.com/jhanc97/demo/main/playlist%20(1).m3u8",
+    "urlCastellano": "",
+    "etiqueta": "Serie",
+    "calidad": "HD",
+    "year": "1969",
+    "rating": 5.3,
+    "urlEnglish": 
+  },
+  {
+    "id": 2,
+    "trailer": "https://www.youtube.com/watch?v=",
+    "title": "Los peligros de Penélope Glamour",
+    "sinopsis": "carajo mierda conchatumadre",
+    "imagen": "https://www.themoviedb.org/t/p/original/xsKvqS8JuYcpIinCBmThLRNnF4k.jpg",
+    "imagenPortada": "https://www.themoviedb.org/t/p/original/zRZohPYDsD8kCjEemeMOvmDveCD.jpg",
+    "duracion": "21min",
+    "categoria": "series",
+    "urlLatino": "https://raw.githubusercontent.com/jhanc97/demo/main/playlist%20(1).m3u8",
+    "urlCastellano": "",
+    "etiqueta": "Serie",
+    "calidad": "HD",
+    "year": "1969",
+    "rating": 5.3,
+    "urlEnglish": 
+  }
+]
