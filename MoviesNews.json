@@ -9,8 +9,7 @@
     "trailer": "https://youtu.be/fuGRN3dYHKg",
     "duracion": "2h3min",
     "rating": "6.3",
-    "year": "2016",
-    "genero": ""
+    "year": "2016"
   },
   {
     "id": "2",
@@ -47,5 +46,53 @@
     "duracion": "2h 8min",
     "rating": "6.2",
     "year": "2016"
+  },
+  {
+    "id": "5",
+    "title": "El guardaespaldas",
+    "sinopsis": "Un experto en artes marciales entra a trabajar como guardaespaldas de la hija de un rico empresario. La empresa de seguridad, propiedad de un antiguo amigo del luchador, oculta un oscuro plan de poder.",
+    "poster": "https://www.themoviedb.org/t/p/original/nJMMhVZT7zMOeUR3PVpaZs1O9VG.jpg",
+    "backdrop": "https://www.themoviedb.org/t/p/original/oES9mKY67eKdTZrdY2cfR7V6u7o.jpg",
+    "video": "http://playhdclub.com.global.prod.fastly.net/prominex8476495/Peliculas/Latino/Ver%20El%20guardaespaldas%20(2016)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4",
+    "trailer": "",
+    "duracion": "1h 33min",
+    "rating": "6.7",
+    "year": "2016"
+  },
+  {
+    "id": "6",
+    "title": "Doble impacto",
+    "sinopsis": "Dos hermanos gemelos son separados al nacer debido a que sus padres fueron asesinados por Raymond Zhang de la mafia china y el ex- socio de Frank Wagner padre de los gemelos Chad y Alex. Veinticinco años después Chad uno de los gemelos, se ha criado en Los Ángeles y es instructor de artes marciales y fitness. El otro es Alex, que se crio en Hong Kong y ahora ejerce de contrabandista para poder sobrevivir. Los dos gemelos no se conocen pero al reencontrarse después de tantos años buscaran vengar la muerte de sus padres.",
+    "poster": "https://www.themoviedb.org/t/p/original/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg",
+    "backdrop": "https://www.themoviedb.org/t/p/original/sAbP0xIjPCbf3OdqzdD3BnlHJ3x.jpg",
+    "video": "http://playhdclub.com.global.prod.fastly.net/prominex8476495/homeend-d3728.appspot.com/Peliculas/Latino/Ver%20Doble%20Impacto%20(1991)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4",
+    "trailer": "",
+    "duracion": "1h 50min",
+    "rating": "6.0",
+    "year": "1991"
+  },
+  {
+    "id": "7",
+    "title": "Titanes del pacífico: La inserrucción",
+    "sinopsis": "Un futuro cercano. Han pasado 10 años tras la primera invasión que sufrió la humanidad, pero la lucha aún no ha terminado. El planeta vuelve a ser asediado por los Kaiju, una raza de alienígenas colosales, que emergen desde un portal interdimensional con el objetivo de destruir a la raza humana. Ante esta nueva amenaza, los Jaegers, robots gigantes de guerra pilotados por dos personas para sobrellevar la inmensa carga neuronal que conlleva manipularlos, ya no están a la altura de lo que se les viene encima. Será entonces cuando los supervivientes de la primera invasión, además de nuevos personajes como el hijo de Pentecost, tendrán que idear la manera de sorprender al enorme enemigo, apostando por nuevas estrategias defensivas y de ataque. Con la Tierra en ruinas e intentando reconstruirse, esta nueva batalla puede ser decisiva para el futuro...",
+    "poster": "https://www.themoviedb.org/t/p/original/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg",
+    "backdrop": "https://www.themoviedb.org/t/p/original/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+    "video": "http://playhdclub.com.global.prod.fastly.net/prominex8476495/Peliculas/Leomal%201/Titanes%20del%20Pac%C3%ADfico-%20La%20Insurrecci%C3%B3n%20(2018).mp4",
+    "trailer": "",
+    "duracion": "1h 50min",
+    "rating": "6.1",
+    "year": "2018"
+  },
+  {
+    "id": "8",
+    "title": "Dragon Ball Z: La Batalla de los Dioses",
+    "sinopsis": "La historia se sitúa varios años después de la batalla con Majin Buu. Bills, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bills parte a la búsqueda de Goku. En el planeta Sagrado, Kibitoshin y Kaio Shin anciano discuten telepáticamente con Kaiosama del norte sobre su despertar y se preguntan cuántos planetas destruirá esta vez. Goku, quien se encuentra entrenando, escucha la conversación y se emociona por el hecho de que haya aparecido un oponente tan poderoso después de tanto tiempo. Bills llega al planeta de Kaiosama y les pregunta si han oido de un \"Dios super saiyajin\" y Goku, emocionado por el desafío, no hace caso a las advertencias de Kaiosama y termina derrotado.",
+    "poster": "https://www.themoviedb.org/t/p/original/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg",
+    "backdrop": "https://www.themoviedb.org/t/p/original/pWNUpRESGnzKqweHCB77JShPZ2i.jpg",
+    "video": "http://playhdclub.com.global.prod.fastly.net/prominex8476495/Peliculas/Leomal%201/Ver%20Dragon%20Ball%20Z-%20La%20batalla%20de%20los%20dioses%20(2013)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4",
+    "trailer": "",
+    "duracion": "1h 52min",
+    "rating": "6.8",
+    "year": "2013"
   }
 ]
