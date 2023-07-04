@@ -1,0 +1,65 @@
+[
+    {
+        "color": "#000000",
+        "nombre": "black",
+        "acent": "",
+        "darktheme": "",
+        "lihgtheme": ""
+    },
+    {
+        "color": "#FFFFFF",
+        "nombre": "white",
+        "acent": "",
+        "darktheme": "",
+        "lihgtheme": ""
+    },
+    {
+        "color": "#7E57C2",
+        "nombre": "purple",
+        "acent": "#7E57C2",
+        "darktheme": "#512DA8",
+        "lihgtheme": "#B39DDB"
+    },
+    {
+        "color": "#5C6BC0",
+        "nombre": "indigo",
+        "acent": "#5C6BC0",
+        "darktheme": "",
+        "lihgtheme": "#9FA8DA"
+    },
+    {
+        "color": "#66BB6A",
+        "nombre": "green",
+        "acent": "#66BB6A",
+        "darktheme": "",
+        "lihgtheme": "#A5D6A7"
+    },
+    {
+        "color": "#FF7043",
+        "nombre": "orange",
+        "acent": "#FF7043",
+        "darktheme": "",
+        "lihgtheme": "#FFAB91"
+    },
+    {
+        "color": "#EC407A",
+        "nombre": "pink",
+        "acent": "#EC407A",
+        "darktheme": "",
+        "lihgtheme": "#F48FB1"
+    },
+    {
+        "color": "#42A5F5",
+        "nombre": "blue",
+        "acent": "#42A5F5",
+        "darktheme": "",
+        "lihgtheme": "#90CAF9"
+    },
+    {
+        "color": "#EF5350",
+        "nombre": "red",
+        "acent": "#EF5350",
+        "darktheme": "",
+        "lihgtheme": "#EF9A9A"
+    }
+]
