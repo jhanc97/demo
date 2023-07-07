@@ -1,67 +1,65 @@
 [
     {
-        "black": {
-            "color": "#000000",
-            "nombre": "black",
-            "acent": "",
-            "darktheme": "",
-            "lihgtheme": ""
-        },
-        "white": {
-            "color": "#FFFFFF",
-            "nombre": "white",
-            "acent": "",
-            "darktheme": "",
-            "lihgtheme": ""
-        },
-        "purple": {
-            "color": "#7E57C2",
-            "nombre": "purple",
-            "acent": "#7E57C2",
-            "darktheme": "#512DA8",
-            "lihgtheme": "#B39DDB"
-        },
-        "indigo": {
-            "color": "#5C6BC0",
-            "nombre": "indigo",
-            "acent": "#5C6BC0",
-            "darktheme": "#303F9F",
-            "lihgtheme": "#9FA8DA"
-        },
-        "green": {
-            "color": "#66BB6A",
-            "nombre": "green",
-            "acent": "#66BB6A",
-            "darktheme": "#388E3C",
-            "lihgtheme": "#A5D6A7"
-        },
-        "orange": {
-            "color": "#FF7043",
-            "nombre": "orange",
-            "acent": "#FF7043",
-            "darktheme": "#E64A19",
-            "lihgtheme": "#FFAB91"
-        },
-        "pink": {
-            "color": "#EC407A",
-            "nombre": "pink",
-            "acent": "#EC407A",
-            "darktheme": "#C2185B",
-            "lihgtheme": "#F48FB1"
-        },
-        "blue": {
-            "color": "#42A5F5",
-            "nombre": "blue",
-            "acent": "#42A5F5",
-            "darktheme": "#1976D2",
-            "lihgtheme": "#90CAF9"
-        },
-        "red": {
-            "color": "#EF5350",
-            "nombre": "red",
-            "acent": "#EF5350",
-            "darktheme": "#D32F2F",
-            "lihgtheme": "#EF9A9A"
-        }
+        "color": "#000000",
+        "nombre": "black",
+        "acent": "",
+        "darktheme": "",
+        "lihgtheme": ""
+    },
+    {
+        "color": "#FFFFFF",
+        "nombre": "white",
+        "acent": "",
+        "darktheme": "",
+        "lihgtheme": ""
+    },
+    {
+        "color": "#7E57C2",
+        "nombre": "purple",
+        "acent": "#7E57C2",
+        "darktheme": "#512DA8",
+        "lihgtheme": "#B39DDB"
+    },
+    {
+        "color": "#5C6BC0",
+        "nombre": "indigo",
+        "acent": "#5C6BC0",
+        "darktheme": "#303F9F",
+        "lihgtheme": "#9FA8DA"
+    },
+    {
+        "color": "#66BB6A",
+        "nombre": "green",
+        "acent": "#66BB6A",
+        "darktheme": "#388E3C",
+        "lihgtheme": "#A5D6A7"
+    },
+    {
+        "color": "#FF7043",
+        "nombre": "orange",
+        "acent": "#FF7043",
+        "darktheme": "#E64A19",
+        "lihgtheme": "#FFAB91"
+    },
+    {
+        "color": "#EC407A",
+        "nombre": "pink",
+        "acent": "#EC407A",
+        "darktheme": "#C2185B",
+        "lihgtheme": "#F48FB1"
+    },
+    {
+        "color": "#42A5F5",
+        "nombre": "blue",
+        "acent": "#42A5F5",
+        "darktheme": "#1976D2",
+        "lihgtheme": "#90CAF9"
+    },
+    {
+        "color": "#EF5350",
+        "nombre": "red",
+        "acent": "#EF5350",
+        "darktheme": "#D32F2F",
+        "lihgtheme": "#EF9A9A"
     }
 ]
